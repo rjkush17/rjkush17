@@ -52,7 +52,7 @@ This is skills that i have and tried to improve it and aquired more
 
 
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjkush17&show_icons=true&hide_border=true) --
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjkush17&show_icons=true&hide_border=true) -->
 
 
 
