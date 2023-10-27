@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/WkVXB92/github-header-image-1.png)
+![Header](./github-header-image (1).png)
 ## Hello there, 👋
 
 I'm Rishabh Kushwah, a dedicated Front-End Web Development student based in Indore, India. My journey is all about evolving into a skilled developer, and I thrive on taking up new challenges and seizing learning opportunities.
