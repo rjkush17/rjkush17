@@ -3,7 +3,7 @@
 
 
 
-## Hello there, 👋
+# Hello there, 👋
 
 I'm Rishabh Kushwah, a dedicated Front-End Web Development student based in Indore, India. My journey is all about evolving into a skilled developer, and I thrive on taking up new challenges and seizing learning opportunities.
 
@@ -15,7 +15,7 @@ Let's code, learn, and grow together! Feel free to reach out and connect with me
 
 
 
-## My Personal Portfolio
+# My Personal Portfolio
 
 🚀 You can explore my complete portfolio on my [Portfolio](https://rishabhkushwah.netlify.app/), where you'll find live demos, details about my projects, and more about me.
 
@@ -27,7 +27,7 @@ Let's code, learn, and grow together! Feel free to reach out and connect with me
 
 Feel free to check out my portfolio for a more in-depth look at my work and stay updated on my projects. Let's connect and discuss our shared passion for technology!
 
-##  My Skills 🛠
+#  My Skills 🛠
 
 This is skills that i have and tried to improve it and aquired more
 
@@ -56,14 +56,14 @@ This is skills that i have and tried to improve it and aquired more
 
 
 
-## 🔗 Other Perofiles
+# 🔗 Other Perofiles
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rishabhkushwah.netlify.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjkush17/)
 
 [![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjkush17/)
 
-### Other Facts About Me
+# Other Facts About Me
 
 - 🎵 **Music Enthusiast**: I have a deep love for music and enjoy exploring various genres. Feel free to share your favorite artists or songs with me!
 
