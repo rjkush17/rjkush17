@@ -44,15 +44,15 @@ This is skills that i have and tried to improve it and aquired more
 
 ### Javascript Libraries 
 
-![My Skills]([https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=react,next,express))
+![My Skills](https://skillicons.dev/icons?i=react,next,express)
 
 ### Database
 
-![My Skills]([https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=mongo))
+![My Skills](https://skillicons.dev/icons?i=mongo)
 
 ### Others
 
-![My Skills]([https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=ts,redux))
+![My Skills](https://skillicons.dev/icons?i=ts,redux)
 
 
 ### Tools
