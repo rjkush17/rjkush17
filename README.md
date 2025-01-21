@@ -36,7 +36,8 @@ This is skills that i have and tried to improve it and aquired more
 
 ### Programing Language 
 
-![My Skills](https://skillicons.dev/icons?i=js)
+![My Skills](https://skillicons.dev/icons?i=js,ruby)
+
 
 ### CSS FreamWork & Libraries
 
@@ -46,6 +47,10 @@ This is skills that i have and tried to improve it and aquired more
 
 ![My Skills](https://skillicons.dev/icons?i=react,next,express)
 
+### Ruby Freamwork 
+
+![My Skills](https://skillicons.dev/icons?i=rails)
+
 ### Database
 
 ![My Skills](https://skillicons.dev/icons?i=mongo)
@@ -53,6 +58,11 @@ This is skills that i have and tried to improve it and aquired more
 ### Others
 
 ![My Skills](https://skillicons.dev/icons?i=ts,redux)
+
+
+### OS
+
+![My Skills](https://skillicons.dev/icons?i=arch,windows)
 
 
 ### Tools
