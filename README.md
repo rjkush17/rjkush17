@@ -3,17 +3,13 @@
 
 
 
-# Hello there, 👋
+# 💻 Rishabh Kushwah
 
-I'm Rishabh Kushwah, a dedicated Front-End Web Development student based in Indore, India. My journey is all about evolving into a skilled developer, and I thrive on taking up new challenges and seizing learning opportunities.
+Hi there! I'm **Rishabh Kushwah**, a passionate Web Developer from Indore, India 🇮🇳.
 
-🌱 **Learning Enthusiast**: I'm passionate about expanding my knowledge in web development, always seeking the next level of mastery.
-
-🌐 **Open-Source Advocate**: I'm excited about the power of open-source projects and the collaborative spirit of the developer community. I'm here to connect, learn, and contribute.
-
-Let's code, learn, and grow together! Feel free to reach out and connect with me.
-
-
+- 🔭 Currently working on **MERN stack** and exploring **Next.js** for advanced web applications.
+- 💻 Daily driver OS: **Arch Linux + Hyprland**.
+- ⚡ I love building web apps, automating my Linux workflow, and Improving my Hyprarch ( archlinux + hyprland) setup.
 
 # My Personal Portfolio
 
@@ -21,7 +17,9 @@ Let's code, learn, and grow together! Feel free to reach out and connect with me
 
 ### Projects
 
-- **Mouzie Blog App**: An engaging blog app crafted solely with front-end technologies. While it's not overly complex, it's a good example of my front-end skills.
+- **Shoes Store**: An e-commerce web app showcasing a modern UI for browsing and purchasing footwear. Built with MERN stack technologies for smooth user experience and dynamic product handling.
+
+- **Blog App**: A full-featured blogging platform allowing users to create, edit, and read posts. Focuses on clean design, rich text editing, and seamless navigation.
 
 - **Advance Quiz App**: Stay tuned for updates on this exciting project! More information coming soon.
 
@@ -34,9 +32,9 @@ This is skills that i have and tried to improve it and aquired more
 ### Basics 
 ![My Skills](https://skillicons.dev/icons?i=html,css)
 
-### Programing Language 
+### Programming Language 
 
-![My Skills](https://skillicons.dev/icons?i=js,ruby)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs)
 
 
 ### CSS FreamWork & Libraries
@@ -47,10 +45,6 @@ This is skills that i have and tried to improve it and aquired more
 
 ![My Skills](https://skillicons.dev/icons?i=react,next,express)
 
-### Ruby Freamwork 
-
-![My Skills](https://skillicons.dev/icons?i=rails)
-
 ### Database
 
 ![My Skills](https://skillicons.dev/icons?i=mongo)
@@ -60,35 +54,16 @@ This is skills that i have and tried to improve it and aquired more
 ![My Skills](https://skillicons.dev/icons?i=ts,redux)
 
 
-### OS
 
-![My Skills](https://skillicons.dev/icons?i=arch,windows)
+### Tools & Platform
 
-
-### Tools
-
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman)
+![My Skills](https://skillicons.dev/icons?i=arch,git,github,neovim,netlify,vercel,postman)
 
 
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjkush17&show_icons=true&hide_border=true) -->
-
-
-
-# 🔗 Other Perofiles
+# 🔗 Other Profiles
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rishabhkushwah.netlify.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjkush17/)
 
 [![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjkush17/)
-
-# Other Facts About Me
-
-- 🎵 **Music Enthusiast**: I have a deep love for music and enjoy exploring various genres. Feel free to share your favorite artists or songs with me!
-
-- 🎮 **Mobile Gamer**: I'm an avid mobile gamer, and I'm always up for discussing the latest mobile games, strategies, or gaming experiences. Let's share our high scores!
-
-- 🌐 **Internet Explorer**: The internet is my playground. I'm constantly exploring, learning, and discovering new things online. If you have any interesting websites, articles, or online communities to recommend, I'm all ears.
-
-Feel free to connect with me on these interests, and let's share our passion for music, mobile games, and the vast world of the internet!
 
