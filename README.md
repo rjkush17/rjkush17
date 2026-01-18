@@ -7,8 +7,7 @@
 
 Hi there! I'm **Rishabh Kushwah**, a passionate Web Developer from Indore, India 🇮🇳.
 
-- 🔭 Currently working on **MERN stack** and exploring **Next.js** for advanced web applications.
-- 💻 Daily driver OS: **Arch Linux + Hyprland**.
+- 🔭 Expertise  on **MERN stack** and exploring **Next.js** for advanced web applications.
 - ⚡ I love building web apps, automating my Linux workflow, and Improving my Hyprarch ( archlinux + hyprland) setup.
 
 # My Personal Portfolio
@@ -34,7 +33,7 @@ This is skills that i have and tried to improve it and aquired more
 
 ### Programming Language 
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,rust)
 
 
 ### CSS FreamWork & Libraries
@@ -66,4 +65,3 @@ This is skills that i have and tried to improve it and aquired more
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjkush17/)
 
 [![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjkush17/)
-
