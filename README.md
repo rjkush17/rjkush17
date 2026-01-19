@@ -1,5 +1,5 @@
 
-![Header](coverimage.jpg)
+![Header](coverimages.jpg)
 
 
 # 💻 Rishabh Kushwah
