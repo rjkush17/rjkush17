@@ -1,66 +1,78 @@
-
 ![Header](coverimages.jpg)
 
+<h1 align="center">Hi 👋, I'm Rishabh Kushwah</h1>
+<h3 align="center">
+Full-Stack MERN Developer | Next.js Builder | Rust Explorer 🦀 | Arch Linux Enthusiast
+</h3>
 
-# 💻 Rishabh Kushwah
+---
 
-Hi there! I'm **Rishabh Kushwah**, a passionate Web Developer from Indore, India 🇮🇳.
+## 🚀 About Me
 
-- 🔭 Expertise  on **MERN stack** and exploring **Next.js** for advanced web applications.
-- ⚡ I love building web apps, automating my Linux workflow, and Improving my Hyprarch ( archlinux + hyprland) setup.
+I'm a passionate Full-Stack Web Developer from **Indore, India 🇮🇳**  
+Focused on building modern, scalable web applications using the **MERN stack** and **Next.js**.
 
-# My Personal Portfolio
+- 🔭 Currently sharpening my skills in **Next.js, TypeScript & Rust**
+- 💡 Love solving problems with clean, efficient code
+- 🐧 Arch Linux + Hyprland user (Hyprarch setup enthusiast)
+- ⚡ Always improving my workflow, productivity, and system customization
+- 🎯 Actively looking for opportunities in Web Development
 
-🚀 You can explore my complete portfolio on my [Portfolio](https://rishabhkushwah.netlify.app/), where you'll find live demos, details about my projects, and more about me.
+---
 
-### Projects
+## 🌐 Portfolio
 
-- **Shoes Store**: An e-commerce web app showcasing a modern UI for browsing and purchasing footwear. Built with MERN stack technologies for smooth user experience and dynamic product handling.
+🚀 Explore my work here:  
+🔗 **https://rishabhkushwah.netlify.app/**  
 
-- **Blog App**: A full-featured blogging platform allowing users to create, edit, and read posts. Focuses on clean design, rich text editing, and seamless navigation.
+You'll find:
+- Live project demos  
+- Technical breakdowns  
+- My development journey  
 
-- **Advance Quiz App**: Stay tuned for updates on this exciting project! More information coming soon.
+---
 
-Feel free to check out my portfolio for a more in-depth look at my work and stay updated on my projects. Let's connect and discuss our shared passion for technology!
+## 🛠 Tech Stack
 
-#  My Skills 🛠
+### 🌐 Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap)
 
-This is skills that i have and tried to improve it and aquired more
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
-### Basics 
-![My Skills](https://skillicons.dev/icons?i=html,css)
+### 🗄 Database
+![Database](https://skillicons.dev/icons?i=mongodb)
 
-### Programming Language 
+### 🧠 Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,rust)
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,rust)
+### 🧰 Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,arch,neovim,vercel,netlify,postman)
 
+---
 
-### CSS FreamWork & Libraries
+## 📈 Currently Improving
 
-![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)
+- 🔥 Data Structures & Algorithms
+- 🦀 Rust for performance-oriented development
+- ⚡ System design basics
+- 🎯 Writing cleaner and production-ready code
 
-### Javascript Libraries 
+---
+## 📈 Contribution Activity
 
-![My Skills](https://skillicons.dev/icons?i=react,next,express)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjkush17&theme=tokyo-night&hide_border=true"/>
+</p>
 
-### Database
+## 🔗 Connect With Me
 
-![My Skills](https://skillicons.dev/icons?i=mongo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabhkushwah.netlify.app/)
 
-### Others
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjkush17/)
 
-![My Skills](https://skillicons.dev/icons?i=ts,redux)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjkush17/)
 
+---
 
-
-### Tools & Platform
-
-![My Skills](https://skillicons.dev/icons?i=arch,git,github,neovim,netlify,vercel,postman)
-
-
-# 🔗 Other Profiles
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rishabhkushwah.netlify.app/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjkush17/)
-
-[![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjkush17/)
+⭐ If you like my work, consider giving a star to my repositories!
