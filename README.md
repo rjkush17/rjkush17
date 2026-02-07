@@ -32,6 +32,7 @@ You'll find:
 
 ---
 
+
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
@@ -59,6 +60,13 @@ You'll find:
 - 🎯 Writing cleaner and production-ready code
 
 ---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rjkush17?theme=dark&font=Baloo&ext=contest" />
+</p>
+
 ## 📈 Contribution Activity
 
 <p align="center">
