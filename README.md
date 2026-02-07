@@ -17,7 +17,7 @@ Focused on building modern, scalable web applications using the **MERN stack** a
 - 🐧 Arch Linux + Hyprland user (Hyprarch setup enthusiast)
 - ⚡ Always improving my workflow, productivity, and system customization
 - 🎯 Actively looking for opportunities in Web Development
-
+  
 ---
 
 ## 🌐 Portfolio
@@ -31,7 +31,6 @@ You'll find:
 - My development journey  
 
 ---
-
 
 ## 🛠 Tech Stack
 
@@ -82,5 +81,3 @@ You'll find:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjkush17/)
 
 ---
-
-⭐ If you like my work, consider giving a star to my repositories!
